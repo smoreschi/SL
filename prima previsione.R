@@ -1,3 +1,10 @@
+nc15=read.csv("C:/Users/simo2/Documents/Università/ESAMI/ALDO/statistical learning/progetto/dati_completi/nc15.csv", sep=" ")
+nc16=read.csv("C:/Users/simo2/Documents/Università/ESAMI/ALDO/statistical learning/progetto/dati_completi/nc16.csv", sep=" ")
+nc17=read.csv("C:/Users/simo2/Documents/Università/ESAMI/ALDO/statistical learning/progetto/dati_completi/nc17.csv", sep=" ")
+nc18=read.csv("C:/Users/simo2/Documents/Università/ESAMI/ALDO/statistical learning/progetto/dati_completi/nc18.csv", sep=" ")
+nc19=read.csv("C:/Users/simo2/Documents/Università/ESAMI/ALDO/statistical learning/progetto/dati_completi/nc19.csv", sep=" ")
+nc20=read.csv("C:/Users/simo2/Documents/Università/ESAMI/ALDO/statistical learning/progetto/dati_completi/nc20.csv", sep=" ")
+
 # MOdelli 
 library(MASS)
 library(caret)
